@@ -1,2 +1,2 @@
-# Group2
-This repository contains the project for the dedicated group2
+# Group Project
+This repository contains the project for the dedicated group
